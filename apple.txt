@@ -1,4 +1,10 @@
-                          ___
+ ,--./,-.
+/,-._.--~\
+ __}  {
+\`-._,-`-,
+ `._,._,'   hjw
+ 
+                            ___
                           _/`.-'`.
                 _      _/` .  _.'
        ..:::::.(_)   /` _.'_./
@@ -20,6 +26,7 @@ dooooooooooooooooooooooooo&@@oooooob
 jgs   `dooooooooobodoooooooob'
        `doooooooob dooooooob'
          `"""""""' `""""""'
+<<<<<<< HEAD
 
 
   ,--./,-.
@@ -27,3 +34,5 @@ jgs   `dooooooooobodoooooooob'
 |          |
  \        /    hjw
   `._,._,'
+=======
+>>>>>>> 19f03cc005304058165177dfc82099a114bfd637
